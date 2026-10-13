@@ -1,0 +1,10 @@
+po_number,supplier,sku,item,qty_ordered,qty_received,order_date,promised_date,latest_eta,status,supplier_confirmed,port_arrival_date,free_days
+PO-24101,Northfield Co-Manufacturing,SKU-100,Daily Gummy Pack 28ct,50000,0,2026-09-01,2026-10-20,2026-10-31,in_production,Y,,
+PO-24102,Northfield Co-Manufacturing,SKU-110,Kids Gummy Pack 28ct,30000,0,2026-09-05,2026-10-24,2026-10-24,in_production,Y,,
+PO-24103,Northfield Co-Manufacturing,SKU-120,Immune Gummy Pack 28ct,20000,18200,2026-08-20,2026-10-05,2026-10-06,received,Y,,
+PO-24104,Pacific Flex Packaging,SKU-900,Retail Pouch Film (roll),400,0,2026-10-02,2026-10-27,2026-10-27,open,N,,
+PO-24105,Pacific Flex Packaging,SKU-900,Retail Pouch Film (roll),600,600,2026-09-01,2026-09-29,2026-09-29,received,Y,,
+PO-24106,Valley Corrugated,SKU-910,Shipper Carton 12ct,25000,0,2026-10-06,2026-10-21,2026-10-25,open,Y,,
+PO-24107,Pacific Flex Packaging,SKU-901,Foil Laminate (roll),300,0,2026-08-15,2026-10-10,2026-10-14,at_port,Y,2026-10-08,7
+PO-24108,Northfield Co-Manufacturing,SKU-130,Sleep Gummy Pack 28ct,15000,0,2026-09-10,2026-11-02,2026-11-02,in_production,Y,,
+PO-24109,Valley Corrugated,SKU-910,Shipper Carton 12ct,10000,10000,2026-09-15,2026-10-01,2026-10-01,received,Y,,

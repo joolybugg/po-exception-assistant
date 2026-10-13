@@ -1,0 +1,8 @@
+sku,item,on_hand,daily_demand,lead_time_days,safety_stock_days
+SKU-100,Daily Gummy Pack 28ct,9000,600,50,14
+SKU-110,Kids Gummy Pack 28ct,14000,400,50,14
+SKU-120,Immune Gummy Pack 28ct,6000,350,45,14
+SKU-130,Sleep Gummy Pack 28ct,12000,300,50,14
+SKU-900,Retail Pouch Film (roll),90,8,25,7
+SKU-901,Foil Laminate (roll),60,5,55,7
+SKU-910,Shipper Carton 12ct,18000,1600,15,5
